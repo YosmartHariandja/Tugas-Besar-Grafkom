@@ -1,0 +1,2 @@
+- Angular Velocity
+- Double Physics Engine Untuk Collision
